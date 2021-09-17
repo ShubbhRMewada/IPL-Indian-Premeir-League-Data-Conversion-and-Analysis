@@ -1,0 +1,2 @@
+# IPL-Indian-Premeir-League-Data-Conversion-and-Analysis
+This project is primarily focused on conversion of the Data Set used. The Data Set I used in this project was initially in .yaml format, which also contained some unwanted data. So I have retrieved the data which was useful for this project and stored it in a dictionary of list format. Then the rest is just the use of PANDAS to convert it into .xlsx format.
